@@ -1,7 +1,8 @@
 1top10000입니다<br>
 하는거:batch파일,css,lua(luau였나 로블에서 쓰는거),nodejs,js,c,vscode,github,html,블렌더,파이썬,ffmpeg<br>
-한번이라도 해본거나 접거나 가끔쓰거나:php,아파치?,mysql,c++,c#,비쥬얼스튜디오,obs,git<br>
-등등<br>
+한번이라도 해본거나 접거나 가끔쓰거나:php,mysql,c++,c#,비쥬얼스튜디오,obs,git<br>
+등등<br><br>
+그리고 ai안써요.<br>
 좋은 리포:
 - https://github.com/1top10000/Block2.0
 - https://github.com/1top10000/aes
